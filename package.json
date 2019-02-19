@@ -1,0 +1,22 @@
+{
+  "name": "koa-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lm356536/koa-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lm356536/koa-note/issues"
+  },
+  "homepage": "https://github.com/lm356536/koa-note#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
